@@ -1,3 +1,3 @@
-cc main.c
+cc main.c 
 ./a.out
 
